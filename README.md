@@ -6,4 +6,4 @@ This project focuses on implementing football metrics utilizing tracking and eve
 
 - **Source folder**: This folder includes the Jupyter notebooks used to implement metrics, apply technical analysis, and plot the results.
 
-- **technical_analysis_presentation.pdf**: This file contains the results along with the methodologies used to implement the metrics. The methodologies consisted of network science and computational geometry.
+- **technical_analysis_presentation.pptx**: This file contains the results along with the methodologies used to implement the metrics. The methodologies consisted of network science and computational geometry.
